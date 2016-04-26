@@ -17,6 +17,8 @@ const messages = [
     "se comió una bomba!",
     "fue dejado en visto y exploto!",
     "cayó en un nido de víboras!",
+    "Ha Sido Violado",
+    
 ];
 
 exports.commands = {
